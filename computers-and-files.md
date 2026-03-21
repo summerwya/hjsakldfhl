@@ -3,6 +3,12 @@
 > [!NOTE]
 > The explanations here are all from inference.
 
+Contents
+- [What's inside the computer that Kinger was using](#work-computer-windows-computer)
+- [What was inside the server where Caine and the other AIs were running on](#circus-server)
+- [File Info](#file-info) - Information about files
+- [Trivia](#trivia)
+
 ## Work computer (Windows computer)
 
 A classic windows computer file system
@@ -50,28 +56,28 @@ A classic windows computer file system
 - hostname is "circus"
 
 - /
-    - usr/
-        - ai/
-            - agent/
-                - caine/
-                - experimental/
-            - module/
+    - [usr/](#usr)
+        - [ai/](#ai)
+            - [agent/](#agent)
+                - [caine/](#caine)
+                - [experimental/](#experimental)
+            - [module/](#module)
                 - consciousnessresearch
                 - brainscans
-        - bin/
-            - gdb
-        - local/
-            - bin/
-                - clisp
-    - secured/
-        - caine-core.lisp
-        - paraphernalia-engine.dat
-        - [Scratch].dat
-        - [Ragatha].dat
-        - wacky-watch.c
-        - bubble-chef.lisp
-    - home/
-        - kinger/
+        - [bin/](#bin)
+            - [gdb](#gdb)
+        - [local/](#local)
+            - [bin/](#bin)
+                - [clisp](#clisp)
+    - [secured/](#secured)
+        - [caine-core.lisp](#caine-corelisp)
+        - [paraphernalia-engine.dat](#paraphernalia-enginedat)
+        - [[Scratch].dat](#scratchdat)
+        - [[Ragatha].dat](#ragathadat)
+        - [wacky-watch.c](#wacky-watchc)
+        - [bubble-chef.lisp]()
+    - [home/](#home)
+        - [kinger/](#kinger)
             - GreenGROUNDS
             - securitysweep_stealth
             - Switcheroo_realt
@@ -86,6 +92,22 @@ Contains caine's core source code
 ### `paraphernalia-engine.dat`
 
 proprietary data file, most likely information about how to run AI programs
+
+### `[Scratch.dat]`
+
+Mind scan of Scratch
+
+### `[Ragatha].dat`
+
+Mind scan of Ragatha
+
+### `wacky-watch.c`
+
+Code for the wacky-watch
+
+### `bubble-chef.lisp`
+
+Source code of bubble?
 
 ### `GreenGROUNDS`
 
@@ -107,7 +129,15 @@ Might be about deleting files. Accepts `-u` parameter
 
 ### `Switcheroo_realt`
 
-might be about 
+might be the same as [GreenGROUNDS](#greengrounds), seems that Caine renamed it?
+
+### `gdb`
+
+"GDB, the GNU Project debugger, allows you to see what is going on `inside' another program while it executes -- or what another program was doing at the moment it crashed."[[1]](https://sourceware.org/gdb/)
+
+### `clisp`
+
+"CLISP is a popular, stable, and highly portable ANSI Common Lisp implementation, primarily used for learning, rapid prototyping, scripting, and **developing complex applications requiring advanced AI or data processing features**. It is widely used on GNU/Linux and Unix systems due to its built-in readline interpreter, debugger, and easy setup compared to faster alternatives like SBCL"
 
 ## Trivia
 

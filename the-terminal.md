@@ -1,5 +1,12 @@
 # The Terminal
 
+Contents:
+
+- [Everything shown in the terminal](#everything-that-was-shown-on-the-terminal)
+- [Why Kinger executed each command](#why-did-kinger-execute-each-command)
+- [Explanation of commands](#explanation-of-commands)
+- [Trivia](#trivia)
+
 ## Everything that was shown on the terminal
 
 ```bash
@@ -196,12 +203,6 @@ Removes a file or folder
 ### `clisp`
 
 "CLISP is a popular, stable, and highly portable ANSI Common Lisp implementation, primarily used for learning, rapid prototyping, scripting, and **developing complex applications requiring advanced AI or data processing features**. It is widely used on GNU/Linux and Unix systems due to its built-in readline interpreter, debugger, and easy setup compared to faster alternatives like SBCL"
-
-## File Details
-
-### caine-core.lisp
-
-A [lisp](#clisp) file containing the core source code of caine
 
 ## Trivia
 
