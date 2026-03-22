@@ -25,7 +25,7 @@ kinger@circus:~$ grep AI-Location
 root 1337 /usr/ai/agent/caine
 root 1338 /usr/ai/agent/experimental
 root 1339 /usr/ai/module/consciousnessresearch
-root 13340 /usr/ai/module/brainscans
+root 1340 /usr/ai/module/brainscans
 kinger@circus:~$ /secured/
 total 8492
 drwxr-xr-x  3 root wheel 512 Oct 15 1996 .
