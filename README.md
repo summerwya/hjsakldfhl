@@ -35,7 +35,6 @@ These files contain trivia and other information about the episode
 - The time on the computer in the end was 8:25PM
 - `kinger@circus:~$` means the user is logged in as "kinger" in a server named "circus". With the current directory being `/home/kinger`
 - Kinger connects to the server using a custom made program that uses ssh (most likely)
-- All the files in the `/secured/` folder are apparently folders. I'm pretty sure that's an animation error
 - Kinger's real name might be along the lines of `G░an░`
 - Kinger made sure to check if he was logged in correctly at the start with the `whoami` command
 - The reason why Caine stayed for a second after deletion was because he was still loaded into memory (RAM) and was given a SIGTERM signal (Which is a polite way to request a program to stop, meaning the program can still execute instructions/code for a bit before disappearing)

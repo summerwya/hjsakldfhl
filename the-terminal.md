@@ -30,14 +30,14 @@ kinger@circus:~$ /secured/
 total 8492
 drwxr-xr-x  3 root wheel 512 Oct 15 1996 .
 drwxr-xr-x 45 root wheel 1024 Oct 15 1996 ..
-drwxr-xr-x 1 root wheel 892344 Oct 15 1996 caine-core.lisp
-drwxr-xr-x 1 root wheel 234512 Oct 15 1996 paraphernalia-engine.dat
-drwxr-xr-x 1 root wheel 234512 Oct 15 1999 [Scratch].dat
-drwxr-xr-x 1 root wheel 234512 Oct 15 2008 [Ragatha].dat
+-rwxr-xr-x 1 root wheel 892344 Oct 15 1996 caine-core.lisp
+-rwxr-xr-x 1 root wheel 234512 Oct 15 1996 paraphernalia-engine.dat
+-rwxr-xr-x 1 root wheel 234512 Oct 15 1999 [Scratch].dat
+-rwxr-xr-x 1 root wheel 234512 Oct 15 2008 [Ragatha].dat
 ...
 ...
-drwxr-xr-x 1 root wheel 45632 Oct 15 1996 wacky-watch.c
-drwxr-xr-x 1 root wheel bubble-chef.lisp
+-rwxr-xr-x 1 root wheel 45632 Oct 15 1996 wacky-watch.c
+-rwxr-xr-x 1 root wheel bubble-chef.lisp
 kinger@circus:~$ stop caine process
 
 WARNING: $"*%WHOOPS WRONG APPROACH THERE*%"
@@ -208,6 +208,5 @@ Removes a file or folder
 
 - `kinger@circus:~$` means the user is logged in as "kinger" in a server named "circus". With the current directory being `/home/kinger`
 - Kinger connects to the server using a custom made program that uses ssh (most likely)
-- All the files in the `/secured/` folder are apparently folders. I'm pretty sure that's an animation error
 - Kinger's real name might be along the lines of `G░an░`
 - Kinger made sure to check if he was logged in correctly at the start with the `whoami` command
